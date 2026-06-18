@@ -1,0 +1,62 @@
+{
+  "teleports": {},
+  "vip_teleports": [],
+  "user_langs": {},
+  "tips": {},
+  "total_tip_gold": 0,
+  "total_tip_count": 0,
+  "roles": {},
+  "dj_users": [],
+  "welcome_message": null,
+  "welcome_mode": "chat",
+  "loop_message": null,
+  "loop_interval": 60,
+  "loop_task": null,
+  "bot_loop_emote": null,
+  "auto_react": false,
+  "welcome_role": false,
+  "outfits": {
+    "1": [
+      {
+        "id": "body-flesh",
+        "type": "clothing",
+        "amount": 1
+      },
+      {
+        "id": "shirt-n_starteritems2019raglanwhite",
+        "type": "clothing",
+        "amount": 1
+      },
+      {
+        "id": "hair_front-n_malenew24",
+        "type": "clothing",
+        "amount": 1
+      }
+    ]
+  },
+  "saved_positions": {},
+  "music_queue": [],
+  "music_settings": {
+    "voice": true
+  },
+  "current_song": null,
+  "vip_list": [],
+  "subscribers": [
+    "6945a32a807a5376fe1e7a59"
+  ],
+  "join_message": null,
+  "leave_message": null,
+  "vip_join_message": null,
+  "vip_leave_message": null,
+  "alert_message": null,
+  "thank_message": null,
+  "flash_mode": false,
+  "dancefloor": {},
+  "music_likes": {},
+  "user_liked_songs": {},
+  "song_library": {},
+  "event": null,
+  "all_access": false,
+  "custom_emotes": {},
+  "manager_list": []
+}
